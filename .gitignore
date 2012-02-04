@@ -1,0 +1,4 @@
+/lib/
+/out/
+*.js
+.DS_Store
